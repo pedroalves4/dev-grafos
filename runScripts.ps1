@@ -1,0 +1,1 @@
+for($i=0;$i -le 30;$i++){ .\grafos.exe Instancia/1.bat saida.csv 1 0 0; }
